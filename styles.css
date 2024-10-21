@@ -37,7 +37,7 @@ body {
 
 .card_img {
     border-radius: 15px;
-    margin-top: 1.5rem;
+    /* margin-top: 1.5rem; */
 }
 
 .card_title {
@@ -45,7 +45,6 @@ body {
     font-size: 1.25rem;
     padding: 1rem;
     text-align: center;
-    margin-bottom: 1rem;
 }
 
 .card_description {
@@ -53,6 +52,4 @@ body {
     font-size: 0.9375rem;
     padding: 1rem;
     text-align: center;
-    margin-bottom: 2.5rem;
-    
 }
