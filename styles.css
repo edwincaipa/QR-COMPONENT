@@ -42,7 +42,7 @@ body {
 
 .card_title {
     color: var(--Slate-900);
-    font-size: 1.25rem;
+    font-size: 1.2rem;
     padding: 1rem;
     text-align: center;
 }
@@ -50,6 +50,5 @@ body {
 .card_description {
     color: var(--Slate-500);
     font-size: 0.9375rem;
-    padding: 1rem;
     text-align: center;
 }
