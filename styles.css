@@ -37,7 +37,7 @@ body {
     background-color: var(--White);
     padding: 1rem;
     border-radius: 20px;
-    max-width: 20rem;
+    max-width: 19rem;
 }
 
 .card_img {
