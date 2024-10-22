@@ -26,11 +26,11 @@ body {
 
 .visually-hidden {
     clip-path: inset(50%);
-    height: 1px;
+    height: 0.0625rem;
     overflow: hidden;
     position: absolute;
     white-space: nowrap;
-    width: 1px;
+    width: 0625rem;
 }
 
 .card {
